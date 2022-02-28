@@ -1,0 +1,16 @@
+E:\patika\practises\phonebook\obj\Debug\net5.0\phonebook.csproj.AssemblyReference.cache
+E:\patika\practises\phonebook\obj\Debug\net5.0\phonebook.GeneratedMSBuildEditorConfig.editorconfig
+E:\patika\practises\phonebook\obj\Debug\net5.0\phonebook.AssemblyInfoInputs.cache
+E:\patika\practises\phonebook\obj\Debug\net5.0\phonebook.AssemblyInfo.cs
+E:\patika\practises\phonebook\obj\Debug\net5.0\phonebook.csproj.CoreCompileInputs.cache
+E:\patika\practises\phonebook\bin\Debug\net5.0\phonebook.exe
+E:\patika\practises\phonebook\bin\Debug\net5.0\phonebook.deps.json
+E:\patika\practises\phonebook\bin\Debug\net5.0\phonebook.runtimeconfig.json
+E:\patika\practises\phonebook\bin\Debug\net5.0\phonebook.runtimeconfig.dev.json
+E:\patika\practises\phonebook\bin\Debug\net5.0\phonebook.dll
+E:\patika\practises\phonebook\bin\Debug\net5.0\phonebook.pdb
+E:\patika\practises\phonebook\obj\Debug\net5.0\phonebook.dll
+E:\patika\practises\phonebook\obj\Debug\net5.0\refint\phonebook.dll
+E:\patika\practises\phonebook\obj\Debug\net5.0\phonebook.pdb
+E:\patika\practises\phonebook\obj\Debug\net5.0\phonebook.genruntimeconfig.cache
+E:\patika\practises\phonebook\obj\Debug\net5.0\ref\phonebook.dll
