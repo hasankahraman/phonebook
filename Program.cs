@@ -39,14 +39,7 @@ namespace phonebook
             bool tekrar = true;
             while(tekrar)
             {
-                Console.WriteLine("Lütfen yapmak istediğiniz işlemi seçiniz :)");
-                Console.WriteLine("*******************************************");
-                Console.WriteLine("(1) Yeni Numara Kaydetmek");
-                Console.WriteLine("(2) Varolan Numarayı Silmek");
-                Console.WriteLine("(3) Varolan Numarayı Güncelleme");
-                Console.WriteLine("(4) Rehberi Listelemek");
-                Console.WriteLine("(5) Rehberde Arama Yapmak");
-
+                Console.WriteLine("Lütfen yapmak istediğiniz işlemi seçiniz :)\n*******************************************\n(1) Yeni Numara Kaydetmek\n(2) Varolan Numarayı Silmek\n(3) Varolan Numarayı Güncelleme\n(4) Rehberi Listelemek\n(5) Rehberde Arama Yapmak");
                 int input = Convert.ToInt32((Console.ReadLine()));
 
 
@@ -65,8 +58,7 @@ namespace phonebook
                     enteredRecord.Number = Console.ReadLine();
 
                     numberList.Add(enteredRecord);
-                    Console.WriteLine("Kayıt işlemi başarıyla gerçekleştirildi.");
-                    Console.WriteLine("**********************************************");
+                    Console.WriteLine("Kayıt işlemi başarıyla gerçekleştirildi.\n**********************************************");
                     break;
 
                 case 2: //Var Olan Kaydı Sil
@@ -94,9 +86,7 @@ namespace phonebook
 
                             
                         } else { // eğer aranan değerde kayıt bulunamadıysa
-                            Console.WriteLine("Aradığınız krtiterlere uygun veri rehberde bulunamadı. Lütfen bir seçim yapınız.");
-                            Console.WriteLine("* Silmeyi sonlandırmak için : (1)");
-                            Console.WriteLine("* Yeniden denemek için      : (2)");
+                            Console.WriteLine("Aradığınız krtiterlere uygun veri rehberde bulunamadı. Lütfen bir seçim yapınız.\n* Silmeyi sonlandırmak için : (1)\n* Yeniden denemek için      : (2)");
                             silmeDurumu = Console.ReadLine() == "1" ? false : true;
                         }
                     }
